@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/MessageBoard/bin/Debug/netcoreapp2.2/MessageBoard.deps.json
+/Users/Guest/Desktop/MessageBoard/bin/Debug/netcoreapp2.2/MessageBoard.runtimeconfig.json
+/Users/Guest/Desktop/MessageBoard/bin/Debug/netcoreapp2.2/MessageBoard.runtimeconfig.dev.json
+/Users/Guest/Desktop/MessageBoard/bin/Debug/netcoreapp2.2/MessageBoard.dll
+/Users/Guest/Desktop/MessageBoard/bin/Debug/netcoreapp2.2/MessageBoard.pdb
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.csprojAssemblyReference.cache
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.AssemblyInfo.cs
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.dll
+/Users/Guest/Desktop/MessageBoard/obj/Debug/netcoreapp2.2/MessageBoard.pdb
